@@ -1,0 +1,1 @@
+$(document).ready(function(){$(document).on("click",".navbar-nav li a",function(n){return"none"!=$(".navbar-toggle").css("display")&&$(".navbar-toggle").trigger("click"),!1})});

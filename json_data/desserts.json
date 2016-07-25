@@ -1,0 +1,53 @@
+[
+	{
+		"name": "CORNER HOUSE",
+		"image": "corner-house.jpg",
+		"url": "corner-house"
+	},
+	{
+		"name": "JUST GELATO",
+		"image": "just-gelato.jpg",
+		"url": "just-gelato"
+	},
+	{
+		"name": "BARISTA",
+		"image": "barista.jpg",
+		"url": "barista"
+	},
+	{
+		"name": "BASKIN ROBBINSBAY",
+		"image": "baskin-robbins.jpg",
+		"url": "baskin-robbins"
+	},
+	{
+		"name": "BOMBAY TIFFANYS",
+		"image": "bombay-tiffanys.jpg",
+		"url": "bombay-tiffanys"
+	},
+	{
+		"name": "CAFE PASSUCCI",
+		"image": "cafe-passucci.jpg",
+		"url": "cafe-passucci"
+	},
+	{
+		"name": "COFFEE DAY",
+		"image": "coffee-day.jpg",
+		"url": "coffee-day"
+	},
+	{
+		"name": "DOLPHIN",
+		"image": "dolphin.jpg",
+		"url": "dolphin"
+	},
+	
+	{
+		"name": "POLAR BEAR",
+		"image": "polar-bear.jpg",
+		"url": "polar-bear"
+	},
+	{
+		"name": "TOOTC",
+		"image": "tootc.jpg",
+		"url": "tootc"
+	}
+]

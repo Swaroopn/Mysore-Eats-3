@@ -1,0 +1,22 @@
+[
+	{
+		"name": "KFC",
+		"image": "kfc.jpg",
+		"url": "kfc"
+	},
+	{
+		"name": "Mc-Donalds",
+		"image": "mcdonalds.jpg",
+		"url": "mcdonalds"
+	},
+	{
+		"name": "DOMINOS",
+		"image": "dominos.jpg",
+		"url": "dominos"
+	},
+	{
+		"name": "PIZZA HUT",
+		"image": "pizza-hut.jpg",
+		"url": "pizza-hut"
+	}
+]

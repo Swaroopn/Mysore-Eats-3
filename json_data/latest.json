@@ -1,0 +1,22 @@
+[
+	{
+		"name": "ATRIUM",
+		"image": "atrium.jpg",
+		"url": "atrium"
+	},
+	{
+		"name": "MALGUDI",
+		"image": "malgudi.jpg",
+		"url": "malgudi"
+	},
+	{
+		"name": "PAKVA",
+		"image": "pakva.jpg",
+		"url": "pakva"
+	},
+	{
+		"name": "RED PEPPER",
+		"image": "red-pepper.jpg",
+		"url": "red-pepper"
+	}
+]

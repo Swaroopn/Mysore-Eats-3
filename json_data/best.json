@@ -1,0 +1,79 @@
+[
+	{
+		"name": "OYSTER BAY",
+		"image": "oyster-bay.jpg",
+		"url": "oyster-bay"
+	},
+	{
+		"name": "FORTUNE JP PALACE",
+		"image": "fortune-jp-palace.jpg",
+		"url": "fortune-jp-palace"
+	},
+	{
+		"name": "PAI VISTA",
+		"image": "pai-vista.jpg",
+		"url": "pai-vista"
+	},
+	{
+		"name": "QUORUM",
+		"image": "quorum.jpg",
+		"url": "quorum"
+	},
+	{
+		"name": "REGAALIS",
+		"image": "regaalis.jpg",
+		"url": "regaalis"
+	},
+	{
+		"name": "KANISHKA",
+		"image": "kanishka.jpg",
+		"url": "kanishka"
+	},
+	{
+		"name": "KINGS KOURT",
+		"image": "kings-kourt.jpg",
+		"url": "kings-kourt"
+	},
+	{
+		"name": "LALITHAMAHAL",
+		"image": "lalithamahal.jpg",
+		"url": "lalithamahal"
+	},
+	{
+		"name": "OLIVE GARDEN",
+		"image": "olive-garden.jpg",
+		"url": "olive-garden"
+	},
+	
+	{
+		"name": "SILENT SHORES",
+		"image": "silent-shores.jpg",
+		"url": "silent-shores"
+	},
+	{
+		"name": "JADE GARDEN",
+		"image": "jade-garden.jpg",
+		"url": "jade-garden"
+	},
+	{
+		"name": "MB INTERNATIONAL",
+		"image": "mb-international.jpg",
+		"url": "mb-international"
+	},
+	{
+		"name": "PARKLANE",
+		"image": "parklane.jpg",
+		"url": "parklane"
+	},
+	
+	{
+		"name": "RITZ",
+		"image": "ritz.jpg",
+		"url": "ritz"
+	},
+	{
+		"name": "RUCHI",
+		"image": "ruchi.jpg",
+		"url": "ruchi"
+	}
+]
